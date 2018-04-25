@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8"/>
-		<title>Jullyane Hawkins' Page</title>
+		<title>Jully's PWP Milestone 1</title>
 	</head>
 	<body>
 		<h1>Purpose</h1>
