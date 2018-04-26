@@ -19,10 +19,10 @@
 		<br>
 		<h1>Wireframes</h1>
 		<h3>Mobile Layout</h3>
-		<img src="mobile-layout.jpg" style="margin: 4px auto;" alt="Mobile Layout">
+		<img src="mobile-layout.jpg" alt="Mobile Layout">
 		<br>
 		<h3>Full Screen Layout</h3>
-		<img src="full-screen-layout.jpg" style="margin: 0px auto;" alt="Full Screen Layout">
+		<img src="full-screen-layout.jpg" alt="Full Screen Layout">
 		<br>
 	</body>
 </html>
