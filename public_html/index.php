@@ -16,16 +16,16 @@
 				<div class="collapse navbar-collapse" id="navbarNav">
 					<ul class="nav navbar-nav ml-auto">
 						<li class="nav-item active">
-							<a class="nav-link" href="#home">Home</a>
+							<a class="nav-link font-weight-bold" href="#home">Home</a>
 						</li>
 						<li class="nav-item active">
-							<a class="nav-link" href="#about-me">About Me</a>
+							<a class="nav-link font-weight-bold" href="#about-me">About Me</a>
 						</li>
 						<li class="nav-item active">
-							<a class="nav-link" href="#portfolio">Portfolio</a>
+							<a class="nav-link font-weight-bold" href="#portfolio">Portfolio</a>
 						</li>
 						<li class="nav-item active">
-							<a class="nav-link" href="#contact">Contact</a>
+							<a class="nav-link font-weight-bold" href="#contact">Contact</a>
 						</li>
 					</ul>
 				</div>
@@ -36,7 +36,7 @@
 				<div class="column">
 					<div class="container pt-5">
 			<h1 class="display-3 text-center font-weight-bold co text-white">Jullyane Hawkins</h1>
-			<p class="lead text-center text-white">Web Development & Hospitality Management</p>
+			<p class="lead text-center font-weight-bold text-white">Web Development & Hospitality Management</p>
 					</div>
 				</div>
 			</div>
@@ -45,7 +45,7 @@
 			<div class="container" id="about-me">
 				<div class="row">
 					<div class="column-fluid col-md-4">
-						<img class="img-fluid rounded-circle" src="jullyane-hawkins.jpg" alt="Jullyane Hawkins">
+						<img class="img-fluid" src="jullyane-hawkins.jpg" alt="Jullyane Hawkins">
 					</div>
 					<div class="column-fluid mt-5 col 2">
 						<p class="lead">*I WILL WRITE MORE LATER*<a href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank">LinkedIn</a><a href="https://twitter.com/jullyanehawkins" target="_blank">Twitter.</a></p>
