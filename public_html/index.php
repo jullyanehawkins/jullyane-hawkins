@@ -4,7 +4,8 @@
 		<meta charset="UTF-8">
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 		<link rel="stylesheet" href="style.css" type="text/css">
-		<title>My Portfolio</title>
+		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+		<title>Jullyane Hawkins</title>
 	</head>
 	<body>
 		<header>
@@ -30,7 +31,7 @@
 				</div>
 			</nav>
 		</header>
-		<section class="image">
+		<section>
 			<div class="row-fluid">
 				<div class="column">
 					<div class="container pt-5">
@@ -53,15 +54,13 @@
 			</div>
 		</div>
 		<footer>
-			<div class="container-fluid">
-				<div class="sticky-footer text-center pt-2 fixed-bottom p-3 mb-2 bg-light text-dark">
+				<div class="sticky-footer text-center text-dark bg-light pt-2 pb-0 m-0 fixed-bottom">
 					<p>
-						<a href="https://github.com/jullyanehawkins" target="_blank"><i class="fab fa-github fa-2x"></i></a>
-						<a href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
-						<a href="https://twitter.com/jullyanehawkins" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+						<a href="https://github.com/jullyanehawkins" target="_blank"><i class="fab fa-github fa-2x text-dark"></i></a>
+						<a href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank"><i class="fab fa-linkedin fa-2x text-dark"></i></a>
+						<a href="https://twitter.com/jullyanehawkins" target="_blank"><i class="fab fa-twitter-square fa-2x text-dark"></i></a>
 					</p>
 				</div>
-			</div>
 		</footer>
 	</body>
 </html>
