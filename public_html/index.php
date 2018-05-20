@@ -30,7 +30,7 @@
 				</div>
 			</nav>
 		</header>
-		<section>
+		<section class="image">
 			<div class="row-fluid">
 				<div class="column">
 					<div class="container pt-5">
@@ -40,7 +40,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="py-5">
+		<div class="py-5">
 			<div class="container" id="about-me">
 				<div class="row">
 					<div class="column-fluid col-md-4">
@@ -52,6 +52,6 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</div>
 	</body>
 </html>
