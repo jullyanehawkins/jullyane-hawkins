@@ -45,12 +45,17 @@
 			<div class="container" id="about-me">
 				<div class="row">
 					<div class="column-fluid col-md-4">
-						<img class="img-fluid" src="jullyane-hawkins.jpg" alt="Jullyane Hawkins">
+						<img class="img-fluid rounded-circle" src="jullyane-hawkins.jpg" alt="Jullyane Hawkins">
 					</div>
 					<div class="column-fluid mt-5 col 2">
-						<p class="lead">*I WILL WRITE MORE LATER*<a href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank">LinkedIn</a><a href="https://twitter.com/jullyanehawkins" target="_blank">Twitter.</a></p>
+						<p class="lead">Hi! I’m Jully and I’m from Recife, PE - Brazil, but moved to United States in 2014. Because of my love for traveling, I got a degree in Hotel Management, but I always thought that web development is fascinating, especially the flexibility of it. That’s why I decided to change my career and become a fullstack web developer. Connect with me on <a href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank">LinkedIn</a> or on <a href="https://twitter.com/jullyanehawkins" target="_blank">Twitter.</a></p>
 					</div>
 				</div>
+			</div>
+		</div>
+		<div class="container pt-5" id="portfolio">
+			<div class="container">
+				<h2>Portfolio</h2>
 			</div>
 		</div>
 		<footer>
