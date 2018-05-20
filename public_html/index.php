@@ -47,7 +47,7 @@
 					<div class="column-fluid col-md-2">
 						<h2>About Me</h2>
 						<br>
-						<img class="img-fluid rounded-circle" src="jullyane-hawkins.jpg" alt="Jullyane Hawkins">
+						<img class="img-fluid rounded-circle" src="images/jullyane-hawkins.jpg" alt="Jullyane Hawkins">
 					</div>
 					<div class="column-fluid mt-5 col 2">
 						<br>
@@ -75,7 +75,7 @@
 					</div>
 					<div class="col-12 col-lg-4">
 						<div class="p-3 mb-2 bg-light text-dark">
-							<img class="card-img-top" src="faces-of-cnm.jpeg" alt="Faces of CNM">
+							<img class="card-img-top" src="images/faces-of-cnm.jpeg" alt="Faces of CNM">
 							<div class="card-body">
 								<h5 class="card-title text-center">Faces of CNM</h5>
 								<p class="card-text text-center">CNM Project to show their students' diversity</p>
@@ -87,7 +87,7 @@
 					</div>
 					<div class="col-12 col-lg-4">
 						<div class="p-3 mb-2 bg-light text-dark">
-							<img class="card-img-top" src="student-of-promise.jpg" alt="CNM Student of Promise">
+							<img class="card-img-top" src="images/student-of-promise.jpg" alt="CNM Student of Promise">
 							<div class="card-body">
 								<h5 class="card-title text-center">CNM Student of Promise</h5>
 								<p class="card-text text-center">Part of the Women in Non-Traditional Careers (WIN) Awards</p>
