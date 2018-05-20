@@ -1,3 +1,7 @@
-#section {
+section {
 	background-image: url("beach-office.jpg");
+	background-size: cover;
+	background-position: top right;
+	background-repeat: no-repeat;
+	height: 100vh;
 }
