@@ -44,14 +44,24 @@
 			<div class="container" id="about-me">
 				<div class="row">
 					<div class="column-fluid col-md-4">
-						<h2>About Jully</h2>
 						<img class="img-fluid rounded-circle" src="jullyane-hawkins.jpg" alt="Jullyane Hawkins">
 					</div>
 					<div class="column-fluid mt-5 col 2">
-						<p class="lead">Jully is originally from Recife, PE - Brazil. *I WILL WRITE MORE LATER* Connect with her on <a href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank">LinkedIn</a> or on <a href="https://twitter.com/jullyanehawkins" target="_blank">Twitter.</a></p>
+						<p class="lead">*I WILL WRITE MORE LATER*<a href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank">LinkedIn</a><a href="https://twitter.com/jullyanehawkins" target="_blank">Twitter.</a></p>
 					</div>
 				</div>
 			</div>
 		</div>
+		<footer>
+			<div class="container-fluid">
+				<div class="sticky-footer text-center pt-2 fixed-bottom p-3 mb-2 bg-light text-dark">
+					<p>
+						<a href="https://github.com/jullyanehawkins" target="_blank"><i class="fab fa-github fa-2x"></i></a>
+						<a href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>
+						<a href="https://twitter.com/jullyanehawkins" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+					</p>
+				</div>
+			</div>
+		</footer>
 	</body>
 </html>
