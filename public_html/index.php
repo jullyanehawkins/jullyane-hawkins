@@ -52,7 +52,7 @@
 					<div class="column-fluid mt-5 col 2">
 						<br>
 						<br>
-						<p class="lead">Hi! I’m Jully and I’m from Recife, PE - Brazil, but moved to United States in 2014. Because of my love for traveling, I got a degree in Hotel Management, but I always thought that web development is fascinating, especially the flexibility of it. That’s why I decided to change my career and become a fullstack web developer. Connect with me on <a href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank">LinkedIn</a> or on <a href="https://twitter.com/jullyanehawkins" target="_blank">Twitter.</a></p>
+						<p class="about">Hi! I’m Jully and I’m from Recife, PE - Brazil, but moved to United States in 2014. Because of my love for traveling, I got a degree in Hotel Management, but I always thought that web development is fascinating, especially the flexibility of it. That’s why I decided to change my career and become a fullstack web developer. Connect with me on <a href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank">LinkedIn</a> or on <a href="https://twitter.com/jullyanehawkins" target="_blank">Twitter.</a></p>
 					</div>
 				</div>
 			</div>

@@ -1,3 +1,7 @@
+body {
+	font-family: Courier;
+}
+
 section {
 	background-image: url("images/beach-office.jpg");
 	background-size: cover;
@@ -10,4 +14,12 @@ section {
 	section {
 		background-position: bottom center;
 	}
+}
+
+h1 {
+	text-shadow: black 0 0 7px;
+}
+
+.lead {
+	text-shadow: black 0 0 7px;
 }
