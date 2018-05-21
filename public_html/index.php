@@ -52,7 +52,7 @@
 					<div class="column-fluid mt-5 col 2">
 						<br>
 						<br>
-						<p class="about">Hi! I’m Jully and I’m from Recife, PE - Brazil, but moved to United States in 2014. Because of my love for traveling, I got a degree in Hotel Management, but I always thought that web development is fascinating, especially the flexibility of it. That’s why I decided to change my career and become a fullstack web developer. Connect with me on <a href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank">LinkedIn</a> or on <a href="https://twitter.com/jullyanehawkins" target="_blank">Twitter.</a></p>
+						<p class="about">Hi! I’m Jully and I’m from Recife, PE - Brazil, but moved to United States in 2014. Because of my love for traveling, I got a degree in Hotel Management, but I always thought that web development is fascinating, especially the flexibility of it. That’s why I decided to change my career and become a fullstack web developer. Connect with me on <a href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank">LinkedIn</a> or follow me on <a href="https://twitter.com/jullyanehawkins" target="_blank">Twitter.</a></p>
 					</div>
 				</div>
 			</div>
@@ -69,7 +69,7 @@
 							<img class="card-img-top" src="https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_448,q_50,w_1024/v1/clients/albuquerque/Screen_Shot_2017_12_06_at_7_46_24_PM_e08b1282-5f14-4905-9f4b-4db707b9b4ec.png" alt="ABQ Outside">
 							<div class="card-body">
 								<h5 class="card-title text-center">ABQ Outside</h5>
-								<p class="card-text text-center">Mobile-first web app built as part of a capstone project during the Deep Dive Coding Bootcamp.</p>
+								<p class="rounded border bg-light text-center">Mobile-first web app built as part of a capstone project during the Deep Dive Coding Bootcamp</p>
 							</div>
 						</div>
 					</div>
@@ -78,7 +78,7 @@
 							<img class="card-img-top" src="images/faces-of-cnm.jpeg" alt="Faces of CNM">
 							<div class="card-body">
 								<h5 class="card-title text-center">Faces of CNM</h5>
-								<p class="card-text text-center">CNM Project to show their students' diversity</p>
+								<p class="rounded border bg-light text-center">CNM Project to show their students' diversity</p>
 								<div class="text-center">
 									<a href="https://www.cnm.edu/news/faces-of-cnm-jullyane-hawkins" target="blank" class="btn btn-primary btn-secondary">Read Article</a>
 								</div>
@@ -90,7 +90,7 @@
 							<img class="card-img-top" src="images/student-of-promise.jpg" alt="CNM Student of Promise">
 							<div class="card-body">
 								<h5 class="card-title text-center">CNM Student of Promise</h5>
-								<p class="card-text text-center">Part of the Women in Non-Traditional Careers (WIN) Awards</p>
+								<p class="rounded border bg-light text-center">Part of the Women in Non-Traditional Careers (WIN) Awards</p>
 							</div>
 						</div>
 					</div>
