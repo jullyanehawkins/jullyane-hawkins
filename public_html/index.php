@@ -65,7 +65,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 col-lg-4">
-						<div class="p-3 mb-2 bg-light text-dark">
+						<div class="p-3 mb-2">
 							<img class="card-img-top" src="https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_448,q_50,w_1024/v1/clients/albuquerque/Screen_Shot_2017_12_06_at_7_46_24_PM_e08b1282-5f14-4905-9f4b-4db707b9b4ec.png" alt="ABQ Outside">
 							<div class="card-body">
 								<h5 class="card-title text-center">ABQ Outside</h5>
@@ -74,19 +74,19 @@
 						</div>
 					</div>
 					<div class="col-12 col-lg-4">
-						<div class="p-3 mb-2 bg-light text-dark">
+						<div class="p-3 mb-2">
 							<img class="card-img-top" src="images/faces-of-cnm.jpeg" alt="Faces of CNM">
 							<div class="card-body">
 								<h5 class="card-title text-center">Faces of CNM</h5>
 								<p class="rounded border bg-light text-center">CNM Project to show their students' diversity</p>
 								<div class="text-center">
-									<a href="https://www.cnm.edu/news/faces-of-cnm-jullyane-hawkins" target="blank" class="btn btn-primary btn-secondary">Read Article</a>
+									<a href="https://www.cnm.edu/news/faces-of-cnm-jullyane-hawkins" target="blank" class="btn bg-light text-dark">Read Article</a>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="col-12 col-lg-4">
-						<div class="p-3 mb-2 bg-light text-dark">
+						<div class="p-3 mb-2">
 							<img class="card-img-top" src="images/student-of-promise.jpg" alt="CNM Student of Promise">
 							<div class="card-body">
 								<h5 class="card-title text-center">CNM Student of Promise</h5>
