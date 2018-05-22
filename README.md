@@ -24,3 +24,6 @@ If you wanted to include a gallery-like pop-up animation for your gallery items,
 Overall this is good work, and I think you're ready to begin development after the Bootstrap Challenge. Be sure that you are clear on any and all interactive behavior before you begin, and we can guide you in that respect. Your Milestone 2a passes at [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). You are now clear to begin development on your PWP.
 
 **We'll be building PWP in a file named index.php inside of /public_html**. Please note that no site files should live outside of the /public_html directory. Please use an organized and standards-compliant directory structure to house all images, JavaScript, CSS, etc. We are done with the /documentation directory for now!
+
+### Milestone 2b Feedback
+Nice work! Meeting notes left via Slack. Your Milestone 2b passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/)
