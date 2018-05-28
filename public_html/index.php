@@ -108,7 +108,7 @@
 					</div>
 					<div class="col-12 col-lg-4">
 						<div class="p-3 mb-2">
-							<img class="card-img-top" src="images/student-of-promise.jpg" alt="CNM Student of Promise">
+							<img class="card-img-top" src="images/student-of-promise.jpeg" alt="CNM Student of Promise">
 							<div class="card-body">
 								<h5 class="card-title text-center">CNM Student of Promise</h5>
 								<p class="rounded border bg-light text-center">Part of the Women in Non-Traditional Careers (WIN) Awards</p>
