@@ -6,6 +6,14 @@
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 		<link rel="stylesheet" href="style.css" type="text/css">
 		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" type="text/javascript"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+		<script src="js/form-validate.js"></script>
+		<script src='https://www.google.com/recaptcha/api.js'></script>
 		<title>Jullyane Hawkins</title>
 	</head>
 	<body>
@@ -15,6 +23,17 @@
 					<span class="navbar-toggler-icon"></span>
 				</button>
 				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="nav navbar-nav mr-auto">
+						<li>
+							<a class="nav-link font-weight-bold" href="https://github.com/jullyanehawkins" target="_blank"><i class="fab fa-github fa-2x text-dark"></i></a>
+						</li>
+						<li>
+							<a class="nav-link font-weight-bold" href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank"><i class="fab fa-linkedin fa-2x text-dark"></i></a>
+						</li>
+						<li>
+							<a class="nav-link font-weight-bold" href="https://twitter.com/jullyanehawkins" target="_blank"><i class="fab fa-twitter-square fa-2x text-dark"></i></a>
+						</li>
+					</ul>
 					<ul class="nav navbar-nav ml-auto">
 						<li class="nav-item active">
 							<a class="nav-link font-weight-bold" href="#home">Home</a>
@@ -98,14 +117,5 @@
 				</div>
 			</div>
 		</div>
-		<footer>
-				<div class="sticky-footer text-center text-dark bg-light pt-2 pb-0 m-0 fixed-bottom">
-					<p>
-						<a href="https://github.com/jullyanehawkins" target="_blank"><i class="fab fa-github fa-2x text-dark"></i></a>
-						<a href="https://www.linkedin.com/in/jullyanehawkins/" target="_blank"><i class="fab fa-linkedin fa-2x text-dark"></i></a>
-						<a href="https://twitter.com/jullyanehawkins" target="_blank"><i class="fab fa-twitter-square fa-2x text-dark"></i></a>
-					</p>
-				</div>
-		</footer>
 	</body>
 </html>
