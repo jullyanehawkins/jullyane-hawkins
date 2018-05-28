@@ -62,10 +62,10 @@
 				</div>
 			</div>
 		</section>
-		<div class="py-5">
+		<div class="py-5 bg-light">
 			<div class="container" id="about-me">
 				<div class="row">
-					<div class="column-fluid col-md-2">
+					<div class="column-fluid col-md-2 bg-light">
 						<h2>About Me</h2>
 						<br>
 						<img class="img-fluid rounded-circle" src="images/jullyane-hawkins.jpg" alt="Jullyane Hawkins">
