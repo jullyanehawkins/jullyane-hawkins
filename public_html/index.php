@@ -18,11 +18,11 @@
 	</head>
 	<body>
 		<header>
-			<nav class="navbar navbar-expand-md navbar-light bg-light d-flex justify-content-end">
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+			<nav class="navbar navbar-expand-md navbar fixed-top navbar-light bg-light d-flex justify-content-end">
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
-				<div class="collapse navbar-collapse" id="navbarNav">
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
 					<ul class="nav navbar-nav mr-auto">
 						<li>
 							<a class="nav-link font-weight-bold" href="https://github.com/jullyanehawkins" target="_blank"><i class="fab fa-github fa-2x text-dark"></i></a>
@@ -55,6 +55,7 @@
 			<div class="row-fluid">
 				<div class="column">
 					<div class="container pt-5">
+						<br>
 			<h1 class="display-3 text-center font-weight-bold co text-white">Jullyane Hawkins</h1>
 			<p class="lead text-center font-weight-bold text-white">Web Development & Hospitality Management</p>
 					</div>
@@ -112,6 +113,51 @@
 								<h5 class="card-title text-center">CNM Student of Promise</h5>
 								<p class="rounded border bg-light text-center">Part of the Women in Non-Traditional Careers (WIN) Awards</p>
 							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="contact">
+			<div id="join-container" class="pt-lg-6 pb-lg-6 pt-5">
+				<div class="container">
+					<h4 class="text-uppercase text-center">Contact Me</h4>
+					<form id="contact-form" action="php/mailer.php" method="post">
+						<div class="form-group row pt-lg-5 pb-lg-3 pt-5">
+							<div class="col-sm-12 col-md-6 offset-md-3">
+								<label for="contactName">Name</label>
+								<input type="text" class="form-control mb-4" id="contactName" name="contactName"
+										 aria-describedby="contactName"
+										 placeholder="Your name">
+							</div>
+							<div class="col-sm-12 col-md-6 offset-md-3">
+								<label for="contactEmail">Email Address</label>
+								<input type="email" class="form-control mb-4" id="contactEmail" name="contactEmail"
+										 aria-describedby="contactEmail"
+										 placeholder="Your email address">
+							</div>
+							<div class="col-sm-12 col-md-6 offset-md-3">
+								<label for="contactSubject">Subject</label>
+								<input type="text" class="form-control mb-4" id="contactSubject" name="contactSubject"
+										 aria-describedby="contactSubject"
+										 placeholder="Email subject">
+							</div>
+							<div class="col-sm-12 col-md-6 offset-md-3">
+								<label for="contactMessage">Message</label>
+								<textarea class="form-control" id="contactMessage" name="contactMessage" rows="4"
+											 placeholder="Type your message here"></textarea>
+							</div>
+						</div>
+						<div class="d-flex justify-content-center">
+							<div class="g-recaptcha" data-sitekey="6Ld-yEoUAAAAAPStd7wJSm6jzHc-jnqBSSTV9fid"></div>
+						</div>
+						<div class="text-center">
+							<button class="btn btn-primary btn-lg mt-3 mb-3 text-center" type="submit">Submit</button>
+						</div>
+					</form>
+					<div class="row">
+						<div class="col-xs-12">
+							<div id="output-area"></div>
 						</div>
 					</div>
 				</div>
