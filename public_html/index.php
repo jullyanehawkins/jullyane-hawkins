@@ -119,31 +119,31 @@
 			</div>
 		</div>
 		<div id="contact">
-			<div id="join-container" class="pt-lg-6 pb-lg-6 pt-5">
+			<div id="join-container" class="pt-lg-6 pb-lg-6 pt-5 bg-light">
 				<div class="container">
-					<h4 class="text-uppercase text-center">Contact Me</h4>
+					<h2 class="text-uppercase text-center"><strong>Contact Me</strong></h2>
 					<form id="contact-form" action="php/mailer.php" method="post">
 						<div class="form-group row pt-lg-5 pb-lg-3 pt-5">
 							<div class="col-sm-12 col-md-6 offset-md-3">
-								<label for="contactName">Name</label>
+								<label for="contactName"><strong>Name</strong></label>
 								<input type="text" class="form-control mb-4" id="contactName" name="contactName"
 										 aria-describedby="contactName"
-										 placeholder="Your name">
+													placeholder="Your name">
 							</div>
 							<div class="col-sm-12 col-md-6 offset-md-3">
-								<label for="contactEmail">Email Address</label>
+								<label for="contactEmail"><strong>Email Address</strong></label>
 								<input type="email" class="form-control mb-4" id="contactEmail" name="contactEmail"
 										 aria-describedby="contactEmail"
 										 placeholder="Your email address">
 							</div>
 							<div class="col-sm-12 col-md-6 offset-md-3">
-								<label for="contactSubject">Subject</label>
+								<label for="contactSubject"><strong>Subject</strong></label>
 								<input type="text" class="form-control mb-4" id="contactSubject" name="contactSubject"
 										 aria-describedby="contactSubject"
 										 placeholder="Email subject">
 							</div>
 							<div class="col-sm-12 col-md-6 offset-md-3">
-								<label for="contactMessage">Message</label>
+								<label for="contactMessage"><strong>Message</strong></label>
 								<textarea class="form-control" id="contactMessage" name="contactMessage" rows="4"
 											 placeholder="Type your message here"></textarea>
 							</div>
