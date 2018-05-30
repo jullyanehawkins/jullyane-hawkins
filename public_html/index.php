@@ -149,7 +149,7 @@
 							</div>
 						</div>
 						<div class="d-flex justify-content-center">
-							<div class="g-recaptcha" data-sitekey="6Ld-yEoUAAAAAPStd7wJSm6jzHc-jnqBSSTV9fid"></div>
+							<div class="g-recaptcha" data-sitekey="6LdLZlwUAAAAAIbpYAMjytSMEfy_H2jpe7F9IY_N"></div>
 						</div>
 						<div class="text-center">
 							<button class="btn btn-primary btn-lg mt-3 mb-3 text-center" type="submit">Submit</button>
