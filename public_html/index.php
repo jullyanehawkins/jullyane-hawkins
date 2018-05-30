@@ -118,7 +118,7 @@
 				</div>
 			</div>
 		</div>
-		<div id="contact">
+		<form id="contact">
 			<div id="join-container" class="pt-lg-6 pb-lg-6 pt-5 bg-light">
 				<div class="container">
 					<h2 class="text-uppercase text-center"><strong>Contact Me</strong></h2>
@@ -162,6 +162,6 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</form>
 	</body>
 </html>
