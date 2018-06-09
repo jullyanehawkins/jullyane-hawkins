@@ -27,3 +27,27 @@ Overall this is good work, and I think you're ready to begin development after t
 
 ### Milestone 2b Feedback
 Nice work! Meeting notes left via Slack. Your Milestone 2b passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/)
+
+### PWP Final Feedback
+Nice work on a simple and attractive website. There is plenty of room to expand on what you have here, and based on what you've been able to achieve I think you're ready to try more challenging front end dev concepts going forward. Nice work! Keep challenging yourself with HTML, CSS and JavaScript in the future. You've got a great start.
+
+*Code Base*: Your code looks great - everything is well formatted, standards-compliant, and I see no errors in your HTML, CSS or Javascript.
+
+*Git Commits*: Nice work integrating good Git workflow.
+
+*Mobile-First Responsiveness*: I've tested your page in devtools and on Chrome on both Linux and Android... your design works well on all the platforms tested.
+
+*Design, Content, &amp; Overall Presentation*: Nice work implementing a simple design that is attractive and functional. Nice use of white space and typography.
+
+*Contact Form*: Works great!
+
+Your PWP passes at [Tier IV](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Your cumulative PWP score including all Milestones is 38/40 points (95%).
+
+- Milestone 1 - 20%: Tier IV 40(0.2) = 8
+- Milestone 2a - 20%: Tier III 30(0.2) = 6
+- Milestone 2b - 10%: Tier IV 40(0.1) = 4
+- Milestone 3 - 50%: Tier IV 40(0.5) = 20
+
+#### Suggestions
+- We didn't discuss favicons, but you might want to consider adding one. Have a look at this tool which helps render multiple versions for cross-platform  support: https://realfavicongenerator.net/
+- I would strongly consider sizing your three images the same - this will increase the visual consistency and give your page a more professional "polish".
